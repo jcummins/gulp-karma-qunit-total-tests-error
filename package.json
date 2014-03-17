@@ -1,0 +1,32 @@
+{
+  "name": "gulp-karma-qunit-total-tests-error",
+  "version": "0.0.1",
+  "description": "Example project",
+  "main": "karma.conf.js",
+  "dependencies": {
+    "gulp-karma": "~0.0.4",
+    "karma": "~0.12.1",
+    "karma-phantomjs-launcher": "~0.1.2",
+    "karma-qunit": "~0.1.1",
+    "qunitjs": "~1.12.0"
+  },
+  "devDependencies": {
+    "karma": "~0.12.1",
+    "gulp-karma": "0.0.4",
+    "qunitjs": "~1.12.0",
+    "karma-qunit": "~0.1.1",
+    "karma-phantomjs-launcher": "~0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jcummins/gulp-karma-qunit-total-tests-error"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jcummins/gulp-karma-qunit-total-tests-error/issues"
+  }
+}
